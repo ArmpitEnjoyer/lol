@@ -1,1 +1,2 @@
-888888888 // random hwid 680925318 // my own hwid, test.
+[@big = 680925318] [@whatever = 123456789] [i use brackets because its cool] you can straight up paste hwid's here tho: 123456789
+(only type things on the first line. this line or any other then the first wont work..)
